@@ -1,0 +1,33 @@
+.topnav {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #27272b;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.leftSide {
+  display: flex;
+  flex-direction: row;
+}
+
+.rightSide {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbarItem {
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  padding: 20px;
+}
+
+.divNavbar {
+  background-color: #27272b;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

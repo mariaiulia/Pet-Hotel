@@ -1,0 +1,9 @@
+.roomsContainer {
+  display: flex;
+  flex-direction: row;
+}
+@media (max-width: 900px) {
+  .roomsContainer {
+    flex-direction: column;
+  }
+}
